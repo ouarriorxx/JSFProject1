@@ -7,22 +7,22 @@ Ce projet est une application web Java basée sur JSF qui permet la gestion des 
 JavaServer Faces (JSF) est un framework Java destiné au développement d'applications web. Il simplifie la création d'interfaces utilisateur web en permettant la construction de composants d'interface utilisateur réutilisables. JSF suit le modèle de conception MVC (Modèle-Vue-Contrôleur), favorisant ainsi la séparation des préoccupations au sein des applications web.
 
 # 📌Principales Caractéristiques de JSF :
-1. Composants Réutilisables :
+##  1. Composants Réutilisables :
 JSF propose une bibliothèque de composants d'interface utilisateur (UI) préconçus tels que boutons, champs de texte, tableaux, etc. Ces composants peuvent être réutilisés facilement à travers l'application, permettant un développement plus rapide et une maintenance simplifiée.
 
-2. Modèle-Vue-Contrôleur (MVC) :
+##  2. Modèle-Vue-Contrôleur (MVC) :
 JSF suit le modèle MVC, encourageant la séparation claire entre le modèle (logique métier), la vue (interface utilisateur) et le contrôleur (logique de gestion des événements). Cela améliore la maintenabilité et la modularité des applications.
 
-3. Gestion Automatique des États :
+##  3. Gestion Automatique des États :
 JSF gère automatiquement l'état des composants entre les requêtes HTTP, éliminant ainsi la nécessité pour les développeurs de gérer manuellement les états des composants. Cela simplifie le développement et améliore la productivité.
 
-4. Intégration Transparente avec d'Autres Technologies Java :
+##  4. Intégration Transparente avec d'Autres Technologies Java :
 JSF s'intègre facilement avec d'autres technologies Java telles que Java EE (Enterprise Edition), les servlets, les JSP (JavaServer Pages) et les bean CDI (Context and Dependency Injection).
 
-5. Gestion des Événements et de la Navigation :
+##  5. Gestion des Événements et de la Navigation :
 JSF offre une gestion robuste des événements, permettant aux développeurs de gérer les interactions utilisateur de manière efficace. La navigation entre les pages est également gérée de manière déclarative, simplifiant la configuration.
 
-6. Support Internationalisation (i18n) :
+##  6. Support Internationalisation (i18n) :
 JSF facilite la prise en charge de l'internationalisation en permettant aux développeurs de créer des applications multilingues de manière transparente.
 
 Utilisation de JSF dans le Développement Web :
