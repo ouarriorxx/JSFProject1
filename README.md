@@ -105,6 +105,10 @@ Ajout, suppression et modification des employés.
 ![modifieremployee](https://github.com/ouarriorxx/JSF/assets/143946046/9d678294-3bc1-4dbd-9bf2-b732c554a41d)
 
 
+# Tree
+
+![tri](https://github.com/ouarriorxx/JSF/assets/143946046/3a2b8b71-6403-4e39-b055-92cbe1a23cb2)
+
 
 # 🔍Association des employés à des services.
 
