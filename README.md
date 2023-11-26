@@ -114,6 +114,9 @@ Ajout, suppression et modification des employés.
 
 ![lk](https://github.com/ouarriorxx/JSF/assets/143946046/6a728bf5-bb8c-4adb-bd6f-7c8699dbc017)
 
+# 📊Statistiques
+
+![sta](https://github.com/ouarriorxx/OUARARIREPO/assets/143946046/e695cd5a-1cab-425f-93ba-1f42a7b2d427)
 
 
 sql
