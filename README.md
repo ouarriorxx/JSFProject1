@@ -43,14 +43,14 @@ En résumé, JSF fournit une structure solide pour le développement d'applicati
 XAMPP : Télécharger XAMPP
 NetBeans : Télécharger NetBeans
 
-# Technologies Utilisées
+# 🛠️💻Technologies Utilisées
 
 JavaServer Faces (JSF): Framework d'interface utilisateur pour Java.
 Hibernate: Framework de persistance pour la gestion des données.
 XAMPP: Serveur local avec MySQL pour la gestion de la base de données.
 NetBeans: Environnement de développement intégré (IDE) pour Java.
 
-# Configuration de la base de données
+# 📈Configuration de la base de données
 
 Installez XAMPP sur votre machine.
 Lancez XAMPP et démarrez les services Apache et MySQL.
@@ -108,7 +108,7 @@ Ajout, suppression et modification des employés.
 
 ![ajouteremployee](https://github.com/ouarriorxx/JSF/assets/143946046/5b845e9f-e406-4e3e-b075-33e9fd529b6a)
 
-# ❌SUPPRESSION
+# ❌🚷SUPPRESSION
 
 ![supprimeremployee](https://github.com/ouarriorxx/JSF/assets/143946046/167001ea-0a27-4133-b962-60eceb67f2a2)
 
