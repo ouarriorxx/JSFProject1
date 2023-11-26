@@ -1,4 +1,4 @@
-# Gestion des Services et Employés avec JSF, XAMPP et NetBeans
+# Gestion des Services et Employés avec JSF, Hibernate, XAMPP et NetBeans
 
 Ce projet est une application web Java basée sur JSF qui permet la gestion des services et des employés d'une entreprise. Il utilise XAMPP comme serveur local pour la base de données MySQL et NetBeans comme environnement de développement intégré.
 
@@ -42,6 +42,13 @@ En résumé, JSF fournit une structure solide pour le développement d'applicati
 
 XAMPP : Télécharger XAMPP
 NetBeans : Télécharger NetBeans
+
+# Technologies Utilisées
+
+JavaServer Faces (JSF): Framework d'interface utilisateur pour Java.
+Hibernate: Framework de persistance pour la gestion des données.
+XAMPP: Serveur local avec MySQL pour la gestion de la base de données.
+NetBeans: Environnement de développement intégré (IDE) pour Java.
 
 # Configuration de la base de données
 
