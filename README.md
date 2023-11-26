@@ -75,6 +75,11 @@ Accédez à l'application à l'adresse http://localhost:8080/NomDuProjet/.
 Gestion des Services :
 Ajout, suppression et modification des services.
 
+# 🗄️Base de donneés 
+
+![BD](https://github.com/ouarriorxx/JSFProject1/assets/143946046/124d8f2c-0ac2-4b07-84f8-f78f35321643)
+
+
 # ✅AJOUT 
 
 ![ajouterservice](https://github.com/ouarriorxx/JSF/assets/143946046/088d3286-443e-41fe-8570-3b569c5907a9)
